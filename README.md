@@ -1,3 +1,8 @@
+<p align="center">
+  🔗 Este perfil é da empresa. Para acessar meu perfil pessoal, visite: 
+  <a href="https://github.com/ragnarcb"><strong>github.com/ragnarcb</strong></a>
+</p>
+
 <h1 align="Center">
     <br>
     Welcome to My Github Profile 
