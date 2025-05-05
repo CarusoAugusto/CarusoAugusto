@@ -62,7 +62,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=CarusoAugusto&theme=blue-green&hide_border=false&include_all_commits=true&count"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarusoAugusto&theme=blue-green&hide_border=false"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarusoAugusto&theme=blue-green&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoAugusto&theme=blue-green"/>
 </div>
 
